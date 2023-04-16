@@ -1,5 +1,5 @@
 ---
-title: "Layout: Header Video"
+title: "Video"
 header:
   video:
     id: 7skwMsXw2lo 
