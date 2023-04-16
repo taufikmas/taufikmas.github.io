@@ -2,7 +2,7 @@
 title: "Layout: Header Video"
 header:
   video:
-    id: XsxDH4HcOWA
+    id: 7skwMsXw2lo 
     provider: youtube
 categories:
   - Layout
@@ -23,20 +23,20 @@ This post should display a **header with a responsive video**, if the theme supp
 
 ### YouTube
 
-To embed the following YouTube video at url `https://www.youtube.com/watch?v=XsxDH4HcOWA` (long version) or `https://youtu.be/XsxDH4HcOWA` (short version) into a post or page's main content you'd use: 
+To embed the following YouTube video at url `https://www.youtube.com/watch?v=7skwMsXw2lo` (long version) or `https://youtu.be/7skwMsXw2lo` (short version) into a post or page's main content you'd use: 
 
 ```liquid
-{% raw %}{% include video id="XsxDH4HcOWA" provider="youtube" %}{% endraw %}
+{% raw %}{% include video id="7skwMsXw2lo" provider="youtube" %}{% endraw %}
 ```
 
-{% include video id="XsxDH4HcOWA" provider="youtube" %}
+{% include video id="7skwMsXw2lo" provider="youtube" %}
 
 To embed it as a video header you'd use the following YAML Front Matter
 
 ```yaml
 header:
   video:
-    id: XsxDH4HcOWA
+    id: 7skwMsXw2lo
     provider: youtube
 ```
 
