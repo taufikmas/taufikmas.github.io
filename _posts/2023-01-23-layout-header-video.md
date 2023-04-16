@@ -30,7 +30,7 @@ To embed the following YouTube video at url `https://www.youtube.com/watch?v=7sk
 ```
 
 {% include video id="7skwMsXw2lo" provider="youtube" %}
-  <iframe width='100%' height='400px' src="https://api.mapbox.com/styles/v1/taufikmas/cj3ce3vea00082smuehpi29v0.html?title=false&access_token=pk.eyJ1IjoidGF1ZmlrbWFzIiwiYSI6ImNsZ2R5MjNiMjF5Mnkzam82aGpjMHlkZXMifQ.J22D3wFDOXp6hkxVXT7GcQ&zoomwheel=false#3.23/-1.54/120.87" title="fixduinostyle" style="border:none;"></iframe>
+  
 
 To embed it as a video header you'd use the following YAML Front Matter
 
