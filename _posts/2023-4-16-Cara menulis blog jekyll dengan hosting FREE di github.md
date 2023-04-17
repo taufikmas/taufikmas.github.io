@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cara menulis blog jekyll dengan hosting FREE di github!"
+title:  "Blog jekyll dengan hosting FREE di github!"
 categories:
   - blog
 tags:
