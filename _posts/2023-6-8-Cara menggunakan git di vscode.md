@@ -17,6 +17,11 @@ Langkah persiapan:
 
 Ketika menginstall `{: .notice}` pastikan komputer  `.notice` dalam keadaan `<p></p>` prima. 
 
-* 1. satu..
-* 2. dua
+Tahapan penambahan postingan:
+
+* 1. create post dan edit post
+* 2. git commit -a
+* 3. git push origin master
+
+
 *to be continued.. *
