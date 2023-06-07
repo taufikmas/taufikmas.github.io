@@ -7,9 +7,9 @@ tags:
   - jekyll
 ---
 
-# Tutorialc menggunakan git di vscode
+# Tutorial menggunakan git di vscode
 
-**Visual studio code**, atau sering disebut vscode merupakan editor program yang familiar digunakan oleh para developer.
+**Visual studio code**, atau sering disebut vscode merupakan editor program yang familiar digunakan oleh para developer .
 
 Langkah persiapan:
 **Install git:** download software git dari www.git-scm.com [nibh elementum](#) ,sesuaikan OQ yang digunakan,contoh download versi windows 64 bit.
