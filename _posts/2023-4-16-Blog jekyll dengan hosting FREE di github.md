@@ -11,5 +11,5 @@ tags:
 
 **Hello Jekyll World**, this is my first Jekyll blog post.
 
-I hope you like it, gaes!
+I hope you like it, gaess!
 *taufikmas*
