@@ -19,5 +19,6 @@ Langkah persiapan:
 
 Ketika menginstall `{: .notice}` pastikan komputer  `.notice` dalam keadaan `<p></p>` prima. 
 
-
+* 1. satu..
+* 2. dua
 *to be continued.. *
