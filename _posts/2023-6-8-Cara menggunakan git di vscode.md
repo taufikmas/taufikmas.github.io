@@ -5,8 +5,6 @@ categories:
   - blog
 tags:
   - jekyll
-  - vscode
-  - git
 ---
 
 # Tutorialc menggunakan git di vscode
