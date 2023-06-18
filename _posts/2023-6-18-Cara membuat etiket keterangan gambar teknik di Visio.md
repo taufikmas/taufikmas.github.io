@@ -26,5 +26,5 @@ Contoh dimensi etiket gambar teknik dalam satuan mm.
 ### 3. sesuaikan dimensi kertas yang digunakan
 
 
-contoh file etiket ({{ site.url }}{{ site.baseurl }}/assets/files/etiket-gambar-teknik.vsdx)
+
 *finish*
