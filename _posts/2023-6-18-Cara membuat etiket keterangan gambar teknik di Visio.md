@@ -6,6 +6,8 @@ categories:
   - blog
 tags:
   - jekyll
+  - comments
+  - layout
 ---
 
 # Tutorial menggunakan git di vscode
@@ -13,9 +15,11 @@ tags:
 **Microsoft visio**, merupakan editor flowchart, skema program yang dkeluarkan oleh microsoft. Untuk keperluan dokumen wiring system misalnya diperlukan etiket/stuklis untuk menunjukan keterangan desain. 
 
 <figure class="half">
-    <a href="/assets/images/etiket-gambar-teknik.jpg"><img src="/assets/images/etiket-gambar-teknik.jpg"></a>
+    <center><a href="/assets/images/etiket-gambar-teknik.jpg"><img src="/assets/images/etiket-gambar-teknik.jpg"></a></center>
     <figcaption>Contoh dimensi etiket gambar teknik.</figcaption>
 </figure>
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/etiket-gambar-teknik.jpg){: .align-center}
 
 The preferred way of using images is placing them in the `/assets/images/` directory and referencing them with an absolute path. Prepending the filename with `{% raw %}{{ site.url }}{{ site.baseurl }}/assets/images/{% endraw %}` will make sure your images display properly in feeds and such.
 
