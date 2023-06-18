@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Cara menggunakan environment GNU LINUX tanpa dual boot di windows"
-excerpt: "Cara menggunakan windows sebagai environment GNU/LINUX tanpa dual boot dan virtual machine - WSL"
 categories:
   - blog
 tags:
