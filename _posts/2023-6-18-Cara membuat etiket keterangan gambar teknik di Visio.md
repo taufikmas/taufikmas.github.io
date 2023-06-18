@@ -14,10 +14,10 @@ tags:
 
 **Microsoft visio**, merupakan editor flowchart, skema program yang dkeluarkan oleh microsoft. Untuk keperluan dokumen wiring system misalnya diperlukan etiket/stuklis untuk menunjukan keterangan desain. 
 
-<!--<figure class="half">
-   <a href="/assets/images/etiket-gambar-teknik.jpg"><img src="/assets/images/etiket-gambar-teknik.jpg"></a>
+<figure class="half">
+   <a href="/assets/images/etiket-gambar-teknik.jpg"><img src="/assets/images/etiket-gambar-teknik.jpg" class="center"></a>
     <figcaption>Contoh dimensi etiket gambar teknik dalam satuan mm.</figcaption>
-</figure>-->
+</figure>
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/etiket-gambar-teknik.jpg){: .align-center}
 
