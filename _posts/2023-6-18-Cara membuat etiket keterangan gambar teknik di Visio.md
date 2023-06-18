@@ -1,6 +1,7 @@
 ---
 title:  "Cara membuat etiket keterangan gambar teknik di Visio"
 excerpt: "Cara membuat Etiket / tuklis / keterangan untuk gambar teknik di microsoft visio"
+author_profile: false
 categories:
   - blog
 tags:
