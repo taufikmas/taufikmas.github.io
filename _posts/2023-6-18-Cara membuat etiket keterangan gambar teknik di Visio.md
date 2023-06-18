@@ -54,9 +54,9 @@ Image that fills page content container by adding the `.full` class with:
 {: .full}
 
 Cara membuat etiket sebagai berikut,
-* 1. create rectangle sesuai dimensi 
-* 2. tuliskan note 
-* 3. sesuaikan dimensi kertas yang digunakan
+### 1. create rectangle sesuai dimensi 
+### 2. tuliskan note 
+### 3. sesuaikan dimensi kertas yang digunakan
 
 
 *finish*
