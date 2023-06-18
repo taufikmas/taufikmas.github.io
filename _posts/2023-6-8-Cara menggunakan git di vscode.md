@@ -13,14 +13,20 @@ tags:
 
 Tahapan penambahan postingan:
 * 1. create post dan edit post.
-* 2. git commit -a
-* 3. git push origin master
+* 2. konfirmasi perubahan file dengan command 
+```ruby
+git commit -a
+```
 
+* 3. upload ke git dengan command:
+```ruby
+git push origin master
+```
 Jika ada file yang ditambahkan, file gambar misalnya, maka tambahkan command 
 ```ruby
 git add * 
 ```
-lalu lanjut ke tahap 2 dan 3. 
+lalu lanjutkan seperti biasa ke tahap 2 dan 3. 
 
 *to be continued.. *
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
