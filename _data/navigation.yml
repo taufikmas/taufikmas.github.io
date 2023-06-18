@@ -14,7 +14,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
+    url: https://mademistakes.com/work/minimal-mistakes-jekyll-theme/
   - title: "Posts"
     url: /year-archive/
   - title: "Categories"
