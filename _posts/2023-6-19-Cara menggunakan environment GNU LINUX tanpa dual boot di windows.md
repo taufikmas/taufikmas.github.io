@@ -30,8 +30,6 @@ aktifkan WSL via menu setting, lalu `restart`.
 
 Lets try ruby yah `https://gorails.com/setup/windows/10` .
 
-
-
 **Install Ruby**
 
 ```html
