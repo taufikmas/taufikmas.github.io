@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Cara membuat etiket keterangan gambar teknik di Visio"
+excerpt: "Cara membuat Etiket / tuklis / keterangan untuk gambar teknik di microsoft visio"
 categories:
   - blog
 tags:
@@ -10,7 +11,11 @@ tags:
 # Tutorial menggunakan git di vscode
 
 **Microsoft visio**, merupakan editor flowchart, skema program yang dkeluarkan oleh microsoft. Untuk keperluan dokumen wiring system misalnya diperlukan etiket/stuklis untuk menunjukan keterangan desain. 
-Contoh standar etiket gambar teknik:
+
+<figure class="half">
+    <a href="/assets/images/etiket-gambar-teknik.jpg"><img src="/assets/images/etiket-gambar-teknik.jpg"></a>
+    <figcaption>Contoh dimensi etiket gambar teknik.</figcaption>
+</figure>
 
 The preferred way of using images is placing them in the `/assets/images/` directory and referencing them with an absolute path. Prepending the filename with `{% raw %}{{ site.url }}{{ site.baseurl }}/assets/images/{% endraw %}` will make sure your images display properly in feeds and such.
 
