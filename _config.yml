@@ -109,10 +109,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:taufikmas@gmail.com
+      #url: mailto:taufikmas@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://jogjatechno.com"
+      #url: "https://jogjatechno.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -121,10 +121,10 @@ author:
       # url: "https://facebook.com/fixduino"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/taufikmas"
+      #url: "https://github.com/taufikmas"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/fikmas"
+      #url: "https://instagram.com/fikmas"
 
 # Site Footer
 footer:
