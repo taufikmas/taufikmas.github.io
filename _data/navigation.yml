@@ -11,8 +11,8 @@ main:
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+   - title: "Sitemap"
+     url: /sitemap/
   - title: "Quick-Start Guide"
     url: https://mademistakes.com/work/minimal-mistakes-jekyll-theme/
   - title: "Posts"
