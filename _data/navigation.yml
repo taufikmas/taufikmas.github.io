@@ -3,16 +3,16 @@ main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   #  main:
-  - title: "Recent"
-    url: /recent/
+  #- title: "Recent"
+  #  url: /recent/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+  #- title: "Sitemap"
+  #  url: /sitemap/
   - title: "Quick-Start Guide"
     url: https://mademistakes.com/work/minimal-mistakes-jekyll-theme/
   - title: "Posts"
