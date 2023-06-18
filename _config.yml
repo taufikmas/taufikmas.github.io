@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Laboratory and Control"
+title                    : "Stay Focus"
 title_separator          : "-"
 name                     : "taufikmas"
 description              : "An amazing website."
@@ -109,10 +109,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: mailto:taufikmas@gmail.com
+      url: mailto:taufikmas@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      #url: "https://jogjatechno.com"
+      url: "https://ruanglab.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -275,7 +275,7 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+   _posts
   - scope:
       path: ""
       type: posts
@@ -283,6 +283,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: #true
+      comments: true
       share: true
       related: true

@@ -14,15 +14,9 @@ tags:
 
 **Microsoft visio**, merupakan editor flowchart, skema program yang dkeluarkan oleh microsoft. Untuk keperluan dokumen wiring system misalnya diperlukan etiket/stuklis untuk menunjukan keterangan desain. 
 
-<figure class="half">
-   <a href="/assets/images/etiket-gambar-teknik.jpg"><img src="/assets/images/etiket-gambar-teknik.jpg" class="center"></a>
-    <figcaption>Contoh dimensi etiket gambar teknik dalam satuan mm.</figcaption>
-</figure>
-
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/etiket-gambar-teknik.jpg){: .align-center}
-<figure class="half">
- <figcaption>Contoh dimensi etiket gambar teknik dalam satuan mm.</figcaption>
-</figure>
+Contoh dimensi etiket gambar teknik dalam satuan mm.
+
 The preferred way of using images is placing them in the `/assets/images/` directory and referencing them with an absolute path. Prepending the filename with `{% raw %}{{ site.url }}{{ site.baseurl }}/assets/images/{% endraw %}` will make sure your images display properly in feeds and such.
 
 Standard image with no width modifier classes applied.
