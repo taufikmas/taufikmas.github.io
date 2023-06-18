@@ -28,7 +28,8 @@ aktifkan WSL via menu setting, lalu `restart`.
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/WSL-005.JPG){: .align-center}
 
 
-Lets try ruby yah <a href="https://gorails.com/setup/windows/10/</a>.
+Lets try ruby yah <a href="https://gorails.com/setup/windows/10/"></a>.
+
 **Install Ruby**
 .
 
