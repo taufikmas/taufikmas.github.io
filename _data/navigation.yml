@@ -3,8 +3,8 @@ main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   #  main:
-  - title: "Recent"
-    url: /recent/
+  #- title: "Recent"
+  #  url: /recent/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -13,17 +13,17 @@ main:
   #   url: /collection-archive/
   #- title: "Sitemap"
   #  url: /sitemap/
-  - title: "Quick-Start Guide"
-    url: https://mademistakes.com/work/minimal-mistakes-jekyll-theme/
+ # - title: "Quick-Start Guide"
+ #   url: https://mademistakes.com/work/minimal-mistakes-jekyll-theme/
   - title: "Posts"
     url: /year-archive/
   - title: "Categories"
     url: /categories/
-  - title: "Tags"
-    url: /tags/
+  #- title: "Tags"
+  #  url: /tags/
   - title: "Pages"
     url: /page-archive/
-  - title: "Collections"
-    url: /collection-archive/
-  - title: "External Link"
-    url: https://google.com
+  #- title: "Collections"
+  #  url: /collection-archive/
+  #- title: "External Link"
+   # url: https://google.com
