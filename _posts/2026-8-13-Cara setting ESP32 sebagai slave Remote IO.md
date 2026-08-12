@@ -40,8 +40,8 @@ B
 
 
 download 
-+ program ino `https://taufikmas.github.io/assets/files/tes_esp32_modbusSlave_2.ino`.
-+ library modbus arduino IDE
-+ software modb poll
+program ino `https://taufikmas.github.io/assets/files/tes_esp32_modbusSlave_2.ino`.
+library modbus arduino IDE
+software modb poll
 video tutorial `https://youtu.be/NAQNzf62AXQ`
 *finish*
