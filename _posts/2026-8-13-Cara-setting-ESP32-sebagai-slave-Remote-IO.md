@@ -17,19 +17,13 @@ tags:
 
 # Step 1 Persiapan hardware 
 **ESP32**, dengan terminasi sbb:
-* VCC: 5V
-* GND: GND
-* RX: 16
-* TX: 17
-* Lampu LED: 23
+**ESP32**--- **TTL to RS485** ---- **USB to RS485**
+* 5V -------- |VCC  
+* GND ------- |GND....[A]|------- |[A]..|USB|--
+* 16 -------- |RX ....[B]|------- |[B]..
+* 17--------- |TX
+* 23 -------- R330 -- LED3mm -- GND
 
-**Modul RS485 to TTL**, dengan terminasi sbb:
-* A
-* B
-
-**USB to RS485**, dengan terminasi sbb:
-* A
-* B
 
 # Step 2 Persiapan Software 
 * Arduino IDE
@@ -43,7 +37,7 @@ tags:
 Kirim perintah ke Slave ESP32:
 1. Hubungkan A-B modul RS485 di ESP32 ke USB to RS485.
 2. Hubungkan USB to RS485 ke komputer.
-3. Sesuaikan settingan COM serial, baudrate, dll, lalu konek.
+3. Sesuaikan settingan COM, baudrate,data bit,parity,stop bit, lalu konek.
 4. Kirim perintah *write coil* dengan ID 10 dan address 1, pilih ON atau OFF.
 
 ---
