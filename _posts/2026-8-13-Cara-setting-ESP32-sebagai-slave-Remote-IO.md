@@ -16,13 +16,9 @@ tags:
 ![Ilustrasi Modbus dan ESP32](/assets/images/esp32-rs485.jpg)
 
 # Step 1 Persiapan hardware 
-**ESP32**, dengan terminasi sbb:
-**ESP32**--- **TTL to RS485** ---- **USB to RS485**
-* 5V -------- |VCC  
-* GND ------- |GND....[A]|------- |[A]..|USB|--
-* 16 -------- |RX ....[B]|------- |[B]..
-* 17--------- |TX
-* 23 -------- R330 -- LED3mm -- GND
+terminasi kabel sbb:
+**ESP32** -- **TTL to RS485** -- **USB to RS485**
+
 
 
 # Step 2 Persiapan Software 
