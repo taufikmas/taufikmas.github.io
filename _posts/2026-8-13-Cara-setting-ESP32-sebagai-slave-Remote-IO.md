@@ -38,6 +38,33 @@ Kirim perintah ke Slave ESP32:
 3. Sesuaikan settingan COM, baudrate,data bit,parity,stop bit, lalu konek.
 4. Kirim perintah *write coil* dengan ID 10 dan address 1, pilih ON atau OFF.
 
+
+        +-------------------+
+        |    ESP32 + modul  |
+        |    TTL to RS485   |
+        +---------+---------+
+                  ^
+                  | 
+                  |
+        +---------+---------+
+        |   USB to RS485    |
+        |   A-A B-B         |
+        +---------+---------+
+                  ^
+                  | 
+                  |
+        +---------+---------+
+        |   Buka Modb Poll  |
+        |   Koneksikan      |
+        +---------+---------+
+                  ^
+                  | 
+                  |
+        +---------+---------+
+        | Testing Modb Poll |
+        |  Write Coil       |
+        +-------------------+
+
 ---
 **Resource:**
 * Download program ino: [tes_esp32_modbusSlave_2.ino](https://taufikmas.github.io/assets/files/tes_esp32_modbusSlave_2.ino)
