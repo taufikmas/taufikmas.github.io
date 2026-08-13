@@ -1,7 +1,11 @@
 ---
-layout: post
+layout: single
 title: "Cara setting ESP32 sebagai slave Remote IO"
 excerpt: "esp32 rs485 as slave"
+author_profile: "true"
+header:
+  image: /assets/images/esp32-rs485.jpg
+  teaser: /assets/images/esp32-rs485.jpg 
 categories:
   - blog
 tags:
